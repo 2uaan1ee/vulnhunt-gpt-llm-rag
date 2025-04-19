@@ -14,8 +14,7 @@ Dự án sử dụng các mô hình ngôn ngữ lớn (LLM) kết hợp với c�
 
 Dự án được xây dựng dựa trên bài báo:  
 **Biagio Boi, Christian Esposito, and Sokjoon Lee. 2024. VulnHunt-GPT: a Smart Contract vulnerabilities detector based on OpenAI chatGPT.**  
-In _Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing (SAC '24)_. Association for Computing Machinery, New York, NY, USA, 1517–1524.  
-[https://doi.org/10.1145/3605098.3636003](https://doi.org/10.1145/3605098.3636003)
+In _Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing (SAC '24)_. Association for Computing Machinery, New York, NY, USA, 1517–1524. [https://doi.org/10.1145/3605098.3636003](https://doi.org/10.1145/3605098.3636003)
 
 ---
 
