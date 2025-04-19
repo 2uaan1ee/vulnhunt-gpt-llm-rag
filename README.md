@@ -22,11 +22,11 @@ In _Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing (SAC '24)_
 
 - **Python**
 - **LangChain**
+- **Streamlit**
 - **OpenAI GPT-4o mini** (tùy chọn)
-- **Qwen2-1.5B-Instruct** (qua Hugging Face)
-- **FAISS Vector Database**
-- **Hugging Face Transformers**
+- **Pinecone Vector Database**
 - **Google Generative AI**
+- **Gemini**
 
 ---
 
